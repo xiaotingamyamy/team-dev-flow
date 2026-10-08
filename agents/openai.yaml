@@ -1,0 +1,4 @@
+interface:
+  display_name: "团队研发闭环"
+  short_description: "跨项目追踪入口、数据与状态，明确团队责任边界，完成最小实现与分层验证"
+  default_prompt: "使用 $team-dev-flow 处理当前研发任务，先确认工程与验收标准，再完成授权范围内的分析或实现。"
